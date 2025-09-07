@@ -1,0 +1,4 @@
+Typescript -> SuperSet of Javascript
+TypeScript is Static Typed Language
+- int a = 10 (yes) - TypeScript - helps catch errors before running the code (compilation time)
+- var a = 10 (no) - Javascript, Python (run time)
