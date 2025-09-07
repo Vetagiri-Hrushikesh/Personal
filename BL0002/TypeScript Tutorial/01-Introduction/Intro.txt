@@ -1,0 +1,6 @@
+Typescript:
+Typescript is a Static Typed Language.
+ Typescript is a superset of javascript
+ Features --> static typing, interface, enums
+ It allows to declare the variable type statically like int x="Bhavitha"( during complation) -> help to solve errors during compilation.(before running the code)
+ x="Bhavita"(not static) -> here  we have not declared the type of variable(python, js)
